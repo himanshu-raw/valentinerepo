@@ -54,10 +54,9 @@ const heartLayout: (number | "B" | null)[][] = [
 
   [null, null, null, "B", 39, 40, 41, 42, 43, "B", null, null, null],
 
-  // ⚠️ your layout includes 46 and 47; we keep them but treat only 0..45 as playable
-  [null, null, null, null, "B", 45, 44, 45, "B", null, null, null, null],
+  [null, null, null, null, "B", "B", 44, "B", "B", null, null, null, null],
 
-  [null, null, null, null, null, "B", 44, "B", null, null, null, null, null],
+  [null, null, null, null, null, "B", 45, "B", null, null, null, null, null],
 
   [null, null, null, null, null, null, "B", null, null, null, null, null, null],
 ];
