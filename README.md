@@ -5,7 +5,7 @@ This web application features a memory card game in a heart shape, where matchin
 
 ## Demo 🎮
 
-You can see the live demo of the game [here]([https://game-xi-ebon.vercel.app/]).
+You can see the live demo of the game [here](https://game-xi-ebon.vercel.app/).
 
 ## Features ✨
 
